@@ -2,6 +2,8 @@
 
 AI-powered polyphonic music generation system based on Google Magenta.js - Pure frontend implementation
 
+🔗 **Live Demo**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
+
 ---
 
 ## English | 中文 | 日本語
@@ -144,7 +146,10 @@ polyphony-web/
 │   └── styles/             # Style files
 ├── public/                 # Static assets
 ├── test-files/             # Test music files
+├── tsconfig.json           # TypeScript configuration
+├── tsconfig.node.json      # TypeScript config for Vite
 ├── vercel.json             # Vercel configuration
+├── vite.config.ts          # Vite configuration
 └── package.json
 ```
 
@@ -183,6 +188,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 ## 🇨🇳 中文说明
 
 **Polyphony Music Generator** - 基于 Google Magenta.js 的 AI 复调音乐生成系统
+
+🔗 **在线试用**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
 
 ### 🎵 功能特点
 
@@ -298,7 +305,10 @@ polyphony-web/
 │   └── styles/             # 样式文件
 ├── public/                 # 静态资源
 ├── test-files/             # 测试音乐文件
+├── tsconfig.json           # TypeScript配置
+├── tsconfig.node.json      # Vite的TypeScript配置
 ├── vercel.json             # Vercel配置
+├── vite.config.ts          # Vite配置
 └── package.json
 ```
 
@@ -337,6 +347,8 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 ## 🇯🇵 日本語
 
 **Polyphony Music Generator** - Google Magenta.js に基づく AI 対位法音楽生成システム
+
+🔗 **オンラインデモ**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
 
 ### 🎵 特徴
 
@@ -474,7 +486,10 @@ polyphony-web/
 │   └── styles/             # スタイルファイル
 ├── public/                 # 静的アセット
 ├── test-files/             # テスト音楽ファイル
+├── tsconfig.json           # TypeScript 設定
+├── tsconfig.node.json      # Vite の TypeScript 設定
 ├── vercel.json             # Vercel 設定
+├── vite.config.ts          # Vite 設定
 └── package.json
 ```
 
