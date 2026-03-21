@@ -2,7 +2,9 @@
 
 AI-powered polyphonic music generation system based on Google Magenta.js - Pure frontend implementation
 
-🔗 **Live Demo**: https://polyphony-generator-web-03.vercel.app/ | 📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
+🔗 **Live Demo**: https://polyphony-generator-web-03.vercel.app/ 
+
+📦 **GitHub**: https://github.com/JeffreyZhou798/Polyphony-Generator-Web-03
 
 ---
 
